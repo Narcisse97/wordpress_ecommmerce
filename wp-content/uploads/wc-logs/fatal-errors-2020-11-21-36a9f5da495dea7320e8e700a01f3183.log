@@ -1,0 +1,8 @@
+2020-11-21T08:43:41+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php à la ligne 163
+
+2020-11-21T08:56:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php à la ligne 163
+
+2020-11-21T09:11:15+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php à la ligne 163
+
+2020-11-21T09:36:57+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php à la ligne 163
+
